@@ -14,9 +14,7 @@ $ npm --version
 
 ```shell
 npm install
-~/path/root/public
 bower install
-~/path/root/
 
 npm test
 npm start
