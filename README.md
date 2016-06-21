@@ -1,4 +1,10 @@
 # expressjs-socketio-postgresql-chatroom
+```shell
+$ node --version
+v4.2.4
+$ npm --version
+3.5.3
+``` 
 
 **Run test**: npm test  
 **Populate DB**: npm run populate  
